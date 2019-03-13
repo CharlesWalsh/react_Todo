@@ -1,0 +1,10 @@
+
+.noteInput:hover {
+    background-color: white;
+    color: #111;
+    transition: 0.2s ease-in;
+}
+.noteInput{
+    background-color: aliceblue;
+}
+
